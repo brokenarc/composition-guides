@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 401 401">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="golden-circles-spiral">
+      <g id="circles">
+        <circle class="cls-2" cx="200.5" cy="124.2337" r="123.6046"/>
+        <circle class="cls-2" cx="200.5" cy="200.5" r="200"/>
+        <circle class="cls-2" cx="247.7119" cy="124.1073" r="76.3927"/>
+        <circle class="cls-2" cx="247.7119" cy="153.2867" r="47.2133"/>
+        <circle class="cls-2" cx="229.553" cy="153.2867" r="29.053"/>
+        <circle class="cls-2" cx="236.4891" cy="142.1412" r="11.222"/>
+        <circle class="cls-2" cx="236.4891" cy="146.4279" r="6.9361"/>
+        <circle class="cls-2" cx="233.8397" cy="146.4279" r="4.2867"/>
+        <circle class="cls-2" cx="229.678" cy="142.1412" r="18.033"/>
+      </g>
+      <g id="spiral">
+        <path id="quadrant_09" data-name="quadrant 09" class="cls-1" d="m200.4986.5014c-110.4562,0-199.9986,89.5424-199.9986,199.9986"/>
+        <path id="quadrant_08" data-name="quadrant 08" class="cls-1" d="m324.1046,124.1073c0-68.2657-55.3403-123.6059-123.6059-123.6059"/>
+        <path id="quadrant_07" data-name="quadrant 07" class="cls-1" d="m247.7119,200.5c42.1905,0,76.3927-34.2022,76.3927-76.3926"/>
+        <path id="quadrant_06" data-name="quadrant 06" class="cls-1" d="m200.4986,153.2867c0,26.0752,21.1381,47.2133,47.2133,47.2133"/>
+        <path id="quadrant_05" data-name="quadrant 05" class="cls-1" d="m229.678,124.1073c-16.1153,0-29.1794,13.0641-29.1794,29.1794"/>
+        <path id="quadrant_04" data-name="quadrant 04" class="cls-1" d="m247.7119,142.1412c0-9.9598-8.074-18.0339-18.0339-18.0339"/>
+        <path id="quadrant_03" data-name="quadrant 03" class="cls-1" d="m236.4891,153.364c6.1982,0,11.2228-5.0246,11.2228-11.2228"/>
+        <path id="quadrant_02" data-name="quadrant 02" class="cls-1" d="m229.553,146.4279c0,3.8307,3.1054,6.9361,6.9361,6.9361"/>
+        <path id="quadrant_01" data-name="quadrant 01" class="cls-1" d="m233.8397,142.1412c-2.3675,0-4.2867,1.9192-4.2867,4.2867"/>
+      </g>
+    </g>
+  </g>
+</svg>

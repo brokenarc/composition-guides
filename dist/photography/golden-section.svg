@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 301.6515 200.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="golden-section">
+      <rect id="rect_3:2_" data-name="rect (3:2)" class="cls-1" x=".25" y=".25" width="300" height="200"/>
+      <g id="grid">
+        <line id="right" class="cls-1" x1="185.6602" y1=".25" x2="185.6602" y2="200.25"/>
+        <line id="left" class="cls-1" x1="114.8398" y1=".25" x2="114.8398" y2="200.25"/>
+        <line id="bottom" class="cls-1" x1=".25" y1="123.8568" x2="300.25" y2="123.8568"/>
+        <line id="top" class="cls-1" x1="1.6515" y1="76.6432" x2="301.6515" y2="76.6432"/>
+      </g>
+    </g>
+  </g>
+</svg>

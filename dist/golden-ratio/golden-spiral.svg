@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323.8568 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #ddd;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-3 {
+        fill: #ff0;
+        opacity: .05;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke: olive;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="golden-spiral">
+      <g id="squares">
+        <g>
+          <g id="square_09" data-name="square 09">
+            <rect class="cls-3" x=".125" y=".125" width="200" height="200"/>
+            <rect class="cls-2" x=".125" y=".125" width="200" height="200"/>
+          </g>
+          <g id="square_08" data-name="square 08">
+            <rect class="cls-3" x="200.125" y=".125" width="123.6068" height="123.6068"/>
+            <rect class="cls-2" x="200.125" y=".125" width="123.6068" height="123.6068"/>
+          </g>
+          <g id="square_07" data-name="square 07">
+            <rect class="cls-3" x="247.3386" y="123.7318" width="76.3932" height="76.3932"/>
+            <rect class="cls-2" x="247.3386" y="123.7318" width="76.3932" height="76.3932"/>
+          </g>
+          <g id="square_06" data-name="square 06">
+            <rect class="cls-3" x="200.125" y="152.9114" width="47.2136" height="47.2136"/>
+            <rect class="cls-2" x="200.125" y="152.9114" width="47.2136" height="47.2136"/>
+          </g>
+          <g id="square_05" data-name="square 05">
+            <rect class="cls-3" x="200.1947" y="123.8015" width="29.0401" height="29.0401"/>
+            <rect class="cls-2" x="200.1947" y="123.8015" width="29.0401" height="29.0401"/>
+          </g>
+          <g id="square_04" data-name="square 04">
+            <rect class="cls-3" x="229.3046" y="123.7318" width="18.034" height="18.034"/>
+            <rect class="cls-2" x="229.3046" y="123.7318" width="18.034" height="18.034"/>
+          </g>
+          <g id="square_03" data-name="square 03">
+            <rect class="cls-3" x="236.1157" y="141.7658" width="11.2229" height="11.2229"/>
+            <rect class="cls-2" x="236.1157" y="141.7658" width="11.2229" height="11.2229"/>
+          </g>
+          <g id="square_02" data-name="square 02">
+            <rect class="cls-3" x="229.1795" y="146.0525" width="6.9361" height="6.9361"/>
+            <rect class="cls-2" x="229.1795" y="146.0525" width="6.9361" height="6.9361"/>
+          </g>
+          <g id="square_01" data-name="square 01">
+            <rect class="cls-3" x="229.1795" y="141.7658" width="4.2868" height="4.2868"/>
+            <rect class="cls-2" x="229.1795" y="141.7658" width="4.2868" height="4.2868"/>
+          </g>
+        </g>
+      </g>
+      <g id="diagonals">
+        <line id="diagonal_09" data-name="diagonal 09" class="cls-1" x1=".125" y1="200.125" x2="200.125" y2=".125"/>
+        <line id="diagonal_08" data-name="diagonal 08" class="cls-1" x1="323.7318" y1="123.7318" x2="200.125" y2=".125"/>
+        <line id="diagonal_07" data-name="diagonal 07" class="cls-1" x1="247.3386" y1="200.125" x2="323.7318" y2="123.7318"/>
+        <line id="diagonal_06" data-name="diagonal 06" class="cls-1" x1="200.125" y1="152.9114" x2="247.3386" y2="200.125"/>
+        <line id="diagonal_05" data-name="diagonal 05" class="cls-1" x1="229.2349" y1="123.8015" x2="200.125" y2="152.9114"/>
+        <line id="diagonal_04" data-name="diagonal 04" class="cls-1" x1="247.3386" y1="141.7658" x2="229.3046" y2="123.7318"/>
+        <line id="diagonal_03" data-name="diagonal 03" class="cls-1" x1="236.1157" y1="152.9887" x2="247.2596" y2="141.8447"/>
+        <line id="diagonal_02" data-name="diagonal 02" class="cls-1" x1="229.1795" y1="146.0525" x2="236.1157" y2="152.9887"/>
+        <line id="diagonal_01" data-name="diagonal 01" class="cls-1" x1="233.4663" y1="141.7658" x2="229.1795" y2="146.0525"/>
+      </g>
+      <g id="quadrants">
+        <path id="quadrant_09" data-name="quadrant 09" class="cls-2" d="m200.125.125C89.6681.125.125,89.668.125,200.125"/>
+        <path id="quadrant_08" data-name="quadrant 08" class="cls-2" d="m323.7318,123.7318c0-68.2661-55.3406-123.6068-123.6068-123.6068"/>
+        <path id="quadrant_07" data-name="quadrant 07" class="cls-2" d="m247.3386,200.125c42.1908,0,76.3932-34.2024,76.3932-76.3932"/>
+        <path id="quadrant_06" data-name="quadrant 06" class="cls-2" d="m200.125,152.9114c0,26.0753,21.1383,47.2136,47.2136,47.2136"/>
+        <path id="quadrant_05" data-name="quadrant 05" class="cls-2" d="m229.3046,123.7318c-16.1155,0-29.1796,13.0642-29.1796,29.1796"/>
+        <path id="quadrant_04" data-name="quadrant 04" class="cls-2" d="m247.3386,141.7658c0-9.9599-8.0741-18.034-18.034-18.034"/>
+        <path id="quadrant_03" data-name="quadrant 03" class="cls-2" d="m236.1157,152.9887c6.1982,0,11.2229-5.0247,11.2229-11.2229"/>
+        <path id="quadrant_02" data-name="quadrant 02" class="cls-2" d="m229.1795,146.0525c0,3.8307,3.1054,6.9361,6.9361,6.9361"/>
+        <path id="quadrant_01" data-name="quadrant 01" class="cls-2" d="m233.4663,141.7658c-2.3675,0-4.2868,1.9193-4.2868,4.2868"/>
+      </g>
+    </g>
+  </g>
+</svg>

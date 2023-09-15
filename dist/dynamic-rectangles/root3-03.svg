@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 346.6435 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255, 0, 0, .05);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: red;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="_3_Layouts" data-name="√3 Layouts">
+    <g id="root3-03">
+      <g id="_3_left_" data-name="√3 (left)">
+        <g id="_3_lines_secondary_" data-name="√3 lines (secondary)">
+          <line id="_3_right" data-name="√3 right" class="cls-3" x1=".125" y1="200.125" x2="115.5948" y2="133.4585"/>
+          <line id="_3_left" data-name="√3 left" class="cls-3" x1="115.5948" y1=".125" x2=".125" y2="66.7915"/>
+          <line id="_3_diagonal" data-name="√3 diagonal" class="cls-3" x1=".125" y1=".125" x2="115.5948" y2="200.125"/>
+        </g>
+        <g id="_3_lines_primary_" data-name="√3 lines (primary)">
+          <line id="_3_diagonal-2" data-name="√3 diagonal" class="cls-2" x1="115.5948" y1=".125" x2=".125" y2="200.125"/>
+          <line id="_3_left-2" data-name="√3 left" class="cls-2" x1=".125" y1=".125" x2="115.5948" y2="66.7915"/>
+          <line id="_3_right-2" data-name="√3 right" class="cls-2" x1="115.5948" y1="200.125" x2=".125" y2="133.4585"/>
+        </g>
+        <rect id="_3_rectangle" data-name="√3 rectangle" class="cls-1" x="-42.1401" y="42.3901" width="200" height="115.4698" transform="translate(157.9849 42.2651) rotate(90)"/>
+      </g>
+      <g id="_3_center_" data-name="√3 (center)">
+        <g id="_3_lines_secondary_-2" data-name="√3 lines (secondary)">
+          <line id="_3_right-3" data-name="√3 right" class="cls-3" x1="231.065" y1="200.125" x2="115.5952" y2="133.4585"/>
+          <line id="_3_left-3" data-name="√3 left" class="cls-3" x1="115.5952" y1=".125" x2="231.065" y2="66.7915"/>
+          <line id="_3_diagonal-3" data-name="√3 diagonal" class="cls-3" x1="231.065" y1=".125" x2="115.5952" y2="200.125"/>
+        </g>
+        <g id="_3_lines_primary_-2" data-name="√3 lines (primary)">
+          <line id="_3_diagonal-4" data-name="√3 diagonal" class="cls-2" x1="115.5952" y1=".125" x2="231.065" y2="200.125"/>
+          <line id="_3_left-4" data-name="√3 left" class="cls-2" x1="231.065" y1=".125" x2="115.5952" y2="66.7915"/>
+          <line id="_3_right-4" data-name="√3 right" class="cls-2" x1="115.5952" y1="200.125" x2="231.065" y2="133.4585"/>
+        </g>
+        <rect id="_3_rectangle-2" data-name="√3 rectangle" class="cls-1" x="73.3301" y="42.3901" width="200" height="115.4698" transform="translate(273.4551 -73.2051) rotate(90)"/>
+      </g>
+      <g id="_3_right_stack_" data-name="√3 (right stack)">
+        <g id="_3_top_" data-name="√3 (top)">
+          <g id="_3_lines_secondary_-3" data-name="√3 lines (secondary)">
+            <line id="_3_right-5" data-name="√3 right" class="cls-3" x1="346.5185" y1=".1348" x2="308.0399" y2="66.7817"/>
+            <line id="_3_left-5" data-name="√3 left" class="cls-3" x1="231.0825" y1="66.7817" x2="269.5611" y2=".1348"/>
+            <line id="_3_diagonal-5" data-name="√3 diagonal" class="cls-3" x1="231.0825" y1=".1348" x2="346.5185" y2="66.7817"/>
+          </g>
+          <g id="_3_lines_primary_-3" data-name="√3 lines (primary)">
+            <line id="_3_diagonal-6" data-name="√3 diagonal" class="cls-2" x1="231.0825" y1="66.7817" x2="346.5185" y2=".1348"/>
+            <line id="_3_left-6" data-name="√3 left" class="cls-2" x1="231.0825" y1=".1348" x2="269.5611" y2="66.7817"/>
+            <line id="_3_right-6" data-name="√3 right" class="cls-2" x1="346.5185" y1="66.7817" x2="308.0399" y2=".1349"/>
+          </g>
+          <rect id="_3_rectangle-3" data-name="√3 rectangle" class="cls-1" x="231.0825" y=".1348" width="115.436" height="66.6469"/>
+        </g>
+        <g id="_3_middle_" data-name="√3 (middle)">
+          <g id="_3_lines_secondary_-4" data-name="√3 lines (secondary)">
+            <line id="_3_right-7" data-name="√3 right" class="cls-3" x1="346.5185" y1="66.7819" x2="308.0399" y2="133.4287"/>
+            <line id="_3_left-7" data-name="√3 left" class="cls-3" x1="231.0825" y1="133.4287" x2="269.5611" y2="66.7819"/>
+            <line id="_3_diagonal-7" data-name="√3 diagonal" class="cls-3" x1="231.0825" y1="66.7819" x2="346.5185" y2="133.4287"/>
+          </g>
+          <g id="_3_lines_primary_-4" data-name="√3 lines (primary)">
+            <line id="_3_diagonal-8" data-name="√3 diagonal" class="cls-2" x1="231.0825" y1="133.4287" x2="346.5185" y2="66.7819"/>
+            <line id="_3_left-8" data-name="√3 left" class="cls-2" x1="231.0825" y1="66.7819" x2="269.5611" y2="133.4288"/>
+            <line id="_3_right-8" data-name="√3 right" class="cls-2" x1="346.5185" y1="133.4287" x2="308.0399" y2="66.7819"/>
+          </g>
+          <rect id="_3_rectangle-4" data-name="√3 rectangle" class="cls-1" x="231.0825" y="66.7819" width="115.436" height="66.6469"/>
+        </g>
+        <g id="_3_bottom_" data-name="√3 (bottom)">
+          <g id="_3_lines_secondary_-5" data-name="√3 lines (secondary)">
+            <line id="_3_right-9" data-name="√3 right" class="cls-3" x1="346.4501" y1="133.4289" x2="307.9715" y2="200.0758"/>
+            <line id="_3_left-9" data-name="√3 left" class="cls-3" x1="231.0141" y1="200.0758" x2="269.4927" y2="133.4289"/>
+            <line id="_3_diagonal-9" data-name="√3 diagonal" class="cls-3" x1="231.0141" y1="133.4289" x2="346.4501" y2="200.0758"/>
+          </g>
+          <g id="_3_lines_primary_-5" data-name="√3 lines (primary)">
+            <line id="_3_diagonal-10" data-name="√3 diagonal" class="cls-2" x1="231.0141" y1="200.0758" x2="346.4501" y2="133.4289"/>
+            <line id="_3_left-10" data-name="√3 left" class="cls-2" x1="231.0141" y1="133.4289" x2="269.4927" y2="200.0758"/>
+            <line id="_3_right-10" data-name="√3 right" class="cls-2" x1="346.4501" y1="200.0758" x2="307.9715" y2="133.429"/>
+          </g>
+          <rect id="_3_rectangle-5" data-name="√3 rectangle" class="cls-1" x="231.0141" y="133.4289" width="115.436" height="66.6469"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

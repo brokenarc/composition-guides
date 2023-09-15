@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 447.4011 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        fill: rgba(255, 255, 0, .05);
+      }
+
+      .cls-2, .cls-4 {
+        stroke: olive;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="_5_Layouts" data-name="√5 Layouts">
+    <g id="root5-04">
+      <g id="_1" data-name="√1">
+        <g id="diagonals">
+          <line id="left" class="cls-3" x1="323.695" y1="200.109" x2="123.7331" y2=".1471"/>
+          <line id="right" class="cls-3" x1="123.695" y1="200.125" x2="323.6569" y2=".1631"/>
+        </g>
+        <g id="arcs">
+          <path id="_1_arc_right_" data-name="√1 arc (right)" class="cls-3" d="m323.679,200.1029C323.679,89.667,234.153.141,123.7171.141"/>
+          <path id="_1_arc_left_" data-name="√1 arc (left)" class="cls-3" d="m123.711,200.0869c0-110.4359,89.526-199.9619,199.9619-199.9619"/>
+        </g>
+        <rect id="_1_square" data-name="√1 square" class="cls-1" x="123.695" y=".1631" width="199.9619" height="199.9619"/>
+      </g>
+      <g id="whirling_" data-name="whirling √">
+        <rect id="whirling_rectangle" data-name="whirling rectangle" class="cls-2" x="-38.0506" y="38.3303" width="199.9619" height="123.5832" transform="translate(-38.1915 162.0524) rotate(-90)"/>
+        <rect id="whirling_square" data-name="whirling square" class="cls-1" x=".1388" y="76.5197" width="123.5832" height="123.5832" transform="translate(-76.3809 200.2417) rotate(-90)"/>
+        <line id="whirling_diagonal" data-name="whirling diagonal" class="cls-2" x1="123.722" y1="138.3113" x2=".1388" y2="76.5197"/>
+        <path id="whirling_arc" data-name="whirling arc" class="cls-4" d="m123.722.141c-54.093,0-100.9258,31.0844-123.6103,76.3651"/>
+      </g>
+      <g id="whirling_-2" data-name="whirling √">
+        <rect id="whirling_rectangle-2" data-name="whirling rectangle" class="cls-2" x="285.4897" y="38.3303" width="199.9619" height="123.5832" transform="translate(285.3487 485.5926) rotate(-90)"/>
+        <rect id="whirling_square-2" data-name="whirling square" class="cls-1" x="323.679" y="76.5197" width="123.5832" height="123.5832" transform="translate(247.1594 523.7819) rotate(-90)"/>
+        <line id="whirling_diagonal-2" data-name="whirling diagonal" class="cls-2" x1="323.679" y1="138.3113" x2="447.2623" y2="76.5197"/>
+        <path id="whirling_arc-2" data-name="whirling arc" class="cls-4" d="m323.679.141c54.093,0,100.9258,31.0844,123.6103,76.3651"/>
+      </g>
+    </g>
+  </g>
+</svg>

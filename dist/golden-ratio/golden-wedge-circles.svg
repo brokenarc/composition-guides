@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.7029 264.4049">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="golden-wedge-circles">
+      <g id="circles">
+        <circle id="circle_09" data-name="circle 09" class="cls-1" cx="412.5779" cy="100.125" r="100"/>
+        <circle id="circle_08" data-name="circle 08" class="cls-1" cx="255.258" cy="61.9284" r="61.8034"/>
+        <circle id="circle_07" data-name="circle 07" class="cls-1" cx="157.9552" cy="38.3216" r="38.1966"/>
+        <circle id="circle_06" data-name="circle 06" class="cls-1" cx="97.8542" cy="23.7318" r="23.6068"/>
+        <circle id="circle_05" data-name="circle 05" class="cls-1" cx="60.8279" cy="14.6451" r="14.5201"/>
+        <circle id="circle_04" data-name="circle 04" class="cls-1" cx="37.9374" cy="9.142" r="9.017"/>
+        <circle id="circle_03" data-name="circle 03" class="cls-1" cx="23.6929" cy="5.7364" r="5.6114"/>
+        <circle id="circle_02" data-name="circle 02" class="cls-1" cx="14.8599" cy="3.5931" r="3.4681"/>
+        <circle id="circle_01" data-name="circle 01" class="cls-1" cx="9.3754" cy="2.2684" r="2.1434"/>
+      </g>
+      <polygon id="triangle" class="cls-2" points=".5151 .125 512.5779 264.1998 512.5779 .125 .5151 .125"/>
+    </g>
+  </g>
+</svg>

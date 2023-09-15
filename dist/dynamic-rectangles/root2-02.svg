@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.1648 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ddd;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: rgba(0, 0, 255, .05);
+        stroke: blue;
+      }
+    </style>
+  </defs>
+  <g id="_2_Layouts" data-name="√2 Layouts">
+    <g id="root2-02">
+      <g id="_2_right_" data-name="√2 (right)">
+        <g id="_2_lines_secondary_" data-name="√2 lines (secondary)">
+          <line id="_2_diagonal" data-name="√2 diagonal" class="cls-1" x1="283.0398" y1=".125" x2="141.6188" y2="200.125"/>
+          <line id="_2_right" data-name="√2 right" class="cls-1" x1="283.0406" y1="100.1261" x2="141.6188" y2=".125"/>
+          <line id="_2_left" data-name="√2 left" class="cls-1" x1="283.0398" y1="200.125" x2="141.6164" y2="100.125"/>
+        </g>
+        <g id="_2_lines_primary_" data-name="√2 lines (primary)">
+          <line id="_2_diagonal-2" data-name="√2 diagonal" class="cls-2" x1="283.0398" y1="200.125" x2="141.6188" y2=".125"/>
+          <line id="_2_right-2" data-name="√2 right" class="cls-2" x1="283.0398" y1=".125" x2="141.6164" y2="100.125"/>
+          <line id="_2_left-2" data-name="√2 left" class="cls-2" x1="141.6188" y1="200.125" x2="283.0406" y2="100.1261"/>
+        </g>
+        <rect id="_2_rectangle" data-name="√2 rectangle" class="cls-2" x="112.3293" y="29.4145" width="200" height="141.4211" transform="translate(112.2043 312.4543) rotate(-90)"/>
+      </g>
+      <g id="_2_left_" data-name="√2 (left)">
+        <g id="_2_lines_secondary_-2" data-name="√2 lines (secondary)">
+          <line id="_2_diagonal-3" data-name="√2 diagonal" class="cls-1" x1="141.5461" y1=".125" x2=".125" y2="200.125"/>
+          <line id="_2_right-3" data-name="√2 right" class="cls-1" x1="141.5468" y1="100.1261" x2=".125" y2=".125"/>
+          <line id="_2_left-3" data-name="√2 left" class="cls-1" x1="141.5461" y1="200.125" x2=".1227" y2="100.125"/>
+        </g>
+        <g id="_2_lines_primary_-2" data-name="√2 lines (primary)">
+          <line id="_2_diagonal-4" data-name="√2 diagonal" class="cls-2" x1="141.5461" y1="200.125" x2=".125" y2=".125"/>
+          <line id="_2_right-4" data-name="√2 right" class="cls-2" x1="141.5461" y1=".125" x2=".1227" y2="100.125"/>
+          <line id="_2_left-4" data-name="√2 left" class="cls-2" x1=".125" y1="200.125" x2="141.5468" y2="100.1261"/>
+        </g>
+        <rect id="_2_rectangle-2" data-name="√2 rectangle" class="cls-2" x="-29.1645" y="29.4145" width="200" height="141.4211" transform="translate(-29.2895 170.9605) rotate(-90)"/>
+      </g>
+    </g>
+  </g>
+</svg>

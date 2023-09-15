@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.25 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="_1_Layouts" data-name="√1 Layouts">
+    <g id="root1-03">
+      <rect id="_1_square_" data-name="√1 (square)" class="cls-1" x=".1251" y=".1251" width="199.9998" height="199.9998"/>
+      <g id="right_arcs" data-name="right arcs">
+        <path id="lower" class="cls-2" d="m.1252,200.125c110.4568,0,199.9998-89.543,199.9998-199.9998"/>
+        <path id="upper" class="cls-2" d="m.1251,200.125c0-110.4568,89.543-199.9998,199.9998-199.9998"/>
+      </g>
+      <g id="left_arcs" data-name="left arcs">
+        <path id="lower-2" data-name="lower" class="cls-2" d="m200.1248,200.125c-110.4568,0-199.9998-89.543-199.9998-199.9998"/>
+        <path id="upper-2" data-name="upper" class="cls-2" d="m200.1249,200.125C200.1249,89.6682,110.582.1252.1251.1252"/>
+      </g>
+      <g id="diagonals">
+        <line id="right" class="cls-2" x1=".1251" y1="200.1249" x2="200.1249" y2=".1251"/>
+        <line id="left" class="cls-2" x1=".1251" y1=".1251" x2="200.1249" y2="200.1249"/>
+      </g>
+      <g id="grid">
+        <g id="horizontal">
+          <line id="h1" class="cls-3" x1=".1251" y1="26.9837" x2="200.1249" y2="26.9837"/>
+          <line id="h2" class="cls-3" x1=".1251" y1="58.7059" x2="200.1249" y2="58.7059"/>
+          <line id="h3_center_" data-name="h3 (center)" class="cls-3" x1=".1251" y1="100.1249" x2="200.1249" y2="100.1249"/>
+          <line id="h4" class="cls-3" x1="200.1248" y1="141.5464" x2=".1251" y2="141.5464"/>
+          <line id="h5" class="cls-3" x1="200.1248" y1="173.2686" x2=".1251" y2="173.2686"/>
+        </g>
+        <g id="vertical">
+          <line id="v1" class="cls-3" x1="26.8653" y1="200.1249" x2="26.8653" y2=".1252"/>
+          <line id="v5" class="cls-3" x1="58.7058" y1="200.1249" x2="58.7058" y2=".1252"/>
+          <line id="v3_center_" data-name="v3 (center)" class="cls-3" x1="100.1251" y1="200.1249" x2="100.1251" y2=".1252"/>
+          <line id="v4" class="cls-3" x1="141.5441" y1="200.125" x2="141.5441" y2=".1252"/>
+          <line id="v5-2" data-name="v5" class="cls-3" x1="173.2663" y1="200.125" x2="173.2663" y2=".1252"/>
+        </g>
+      </g>
+      <circle id="circle" class="cls-2" cx="100.1251" cy="100.1249" r="99.9999"/>
+    </g>
+  </g>
+</svg>

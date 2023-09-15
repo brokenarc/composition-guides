@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.2501 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="_1_Layouts" data-name="√1 Layouts">
+    <g id="root1-02">
+      <rect id="_1_square_" data-name="√1 (square)" class="cls-1" x=".1251" y=".125" width="199.9999" height="199.9999"/>
+      <g id="arcs">
+        <path id="right_arc" data-name="right arc" class="cls-2" d="m200.1251,200.125C200.1251,89.6681,110.582.1251.1251.1251"/>
+        <path id="left_arc" data-name="left arc" class="cls-2" d="m200.1249,200.125c-110.4569,0-199.9999-89.543-199.9999-199.9999"/>
+      </g>
+      <g id="diagonals">
+        <line id="right" class="cls-2" x1=".1251" y1="200.1249" x2="200.125" y2=".125"/>
+        <line id="left" class="cls-2" x1=".1251" y1=".125" x2="200.125" y2="200.1249"/>
+      </g>
+      <g id="grid_lines" data-name="grid lines">
+        <g id="horizontal">
+          <line id="top" class="cls-3" x1=".1251" y1="58.7058" x2="200.1251" y2="58.7058"/>
+          <line id="bottom" class="cls-3" x1="200.1249" y1="141.5464" x2=".1251" y2="141.5464"/>
+        </g>
+        <g id="vertical">
+          <line id="left-2" data-name="left" class="cls-3" x1="58.7059" y1="200.1249" x2="58.7059" y2=".1251"/>
+          <line id="right-2" data-name="right" class="cls-3" x1="141.5442" y1="200.125" x2="141.5442" y2=".1251"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

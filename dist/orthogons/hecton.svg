@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 347.6433 201">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="Orthogons">
+    <g id="hecton">
+      <rect id="_01_square" data-name="01 square" class="cls-2" x=".7301" y=".5" width="199.8753" height="199.9771"/>
+      <line id="_02_diagonal" data-name="02 diagonal" class="cls-2" x1=".7492" y1="200.5" x2="200.6245" y2=".5229"/>
+      <path id="_03_arc" data-name="03 arc" class="cls-2" d="m283.2214,200.328c0-78.0135-31.5717-148.6492-82.6291-199.8149"/>
+      <line id="_04_vertical" data-name="04 vertical" class="cls-2" x1="283.661" y1="200.5115" x2="283.661" y2=".5115"/>
+      <line id="_05_crossline" data-name="05 crossline" class="cls-2" x1=".661" y1=".5115" x2="283.661" y2="200.5115"/>
+      <path id="_06_arc" data-name="06 arc" class="cls-2" d="m347.1433.5115c0,74.5265-23.5297,143.5574-63.5655,200.069"/>
+      <rect id="_07_hecton" data-name="07 hecton" class="cls-1" x=".5" y=".5229" width="346.4102" height="199.9771"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.25 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="_1_Layouts" data-name="√1 Layouts">
+    <g id="root1-01">
+      <path id="_1_arc" data-name="√1 arc" class="cls-2" d="m200.125,200.1029C200.125,89.6582,110.5918.125.1471.125"/>
+      <line id="_1_line" data-name="√1 line" class="cls-2" x1=".125" y1="200.125" x2="200.1029" y2=".1471"/>
+      <rect id="_1_square" data-name="√1 square" class="cls-1" x=".125" y=".1471" width="199.9779" height="199.9779"/>
+    </g>
+  </g>
+</svg>

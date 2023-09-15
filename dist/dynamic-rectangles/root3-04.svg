@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 346.347 200.25">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #f0f;
+      }
+
+      .cls-2 {
+        fill: rgba(255, 0, 0, .05);
+      }
+
+      .cls-2, .cls-3 {
+        stroke: red;
+      }
+
+      .cls-4 {
+        stroke: #ddd;
+      }
+
+      .cls-5 {
+        fill: rgba(255, 0, 255, .05);
+      }
+
+      .cls-6 {
+        fill: rgba(0, 0, 255, .05);
+        stroke: blue;
+      }
+    </style>
+  </defs>
+  <g id="_3_Layouts" data-name="√3 Layouts">
+    <g id="root3-04">
+      <g id="_2_left_" data-name="√2 (left)">
+        <g id="_2_lines_secondary_" data-name="√2 lines (secondary)">
+          <line id="_2_left" data-name="√2 left" class="cls-4" x1=".125" y1=".13" x2="141.5413" y2="100.125"/>
+          <line id="_2_diagonal" data-name="√2 diagonal" class="cls-4" x1=".125" y1="200.12" x2="141.539" y2=".13"/>
+          <line id="_2_right" data-name="√2 right" class="cls-4" x1=".1243" y1="100.1239" x2="141.539" y2="200.12"/>
+        </g>
+        <g id="_2_lines_primary_" data-name="√2 lines (primary)">
+          <line id="_2_diagonal-2" data-name="√2 diagonal" class="cls-6" x1=".125" y1=".13" x2="141.539" y2="200.12"/>
+          <line id="_2_left-2" data-name="√2 left" class="cls-6" x1="141.539" y1=".13" x2=".1243" y2="100.1239"/>
+          <line id="_2_right-2" data-name="√2 right" class="cls-6" x1=".125" y1="200.12" x2="141.5413" y2="100.125"/>
+        </g>
+        <rect id="_2_rectangle" data-name="√2 rectangle" class="cls-6" x="-29.163" y="29.418" width="199.99" height="141.414" transform="translate(170.957 29.293) rotate(90)"/>
+      </g>
+      <g id="_3_center_" data-name="√3 (center)">
+        <g id="_3_lines_secondary_" data-name="√3 lines (secondary)">
+          <line id="_3_right" data-name="√3 right" class="cls-4" x1="141.3141" y1="200.125" x2="256.784" y2="133.4585"/>
+          <line id="_3_left" data-name="√3 left" class="cls-4" x1="256.784" y1=".125" x2="141.3141" y2="66.7915"/>
+          <line id="_3_diagonal" data-name="√3 diagonal" class="cls-4" x1="141.3141" y1=".125" x2="256.784" y2="200.125"/>
+        </g>
+        <g id="_3_lines_primary_" data-name="√3 lines (primary)">
+          <line id="_3_diagonal-2" data-name="√3 diagonal" class="cls-3" x1="256.784" y1=".125" x2="141.3141" y2="200.125"/>
+          <line id="_3_left-2" data-name="√3 left" class="cls-3" x1="141.3141" y1=".125" x2="256.784" y2="66.7915"/>
+          <line id="_3_right-2" data-name="√3 right" class="cls-3" x1="256.784" y1="200.125" x2="141.3141" y2="133.4585"/>
+        </g>
+        <rect id="_3_rectangle" data-name="√3 rectangle" class="cls-2" x="99.049" y="42.3901" width="200" height="115.4698" transform="translate(299.174 -98.924) rotate(90)"/>
+      </g>
+      <g id="_5_right_" data-name="√5 (right)">
+        <rect id="_5_rectangle" data-name="√5 rectangle" class="cls-5" x="201.508" y="55.406" width="199.99" height="89.4381" transform="translate(201.378 401.628) rotate(-90)"/>
+        <g id="_5_lines_secondary_" data-name="√5 lines (secondary)">
+          <line id="diagonal" class="cls-4" x1="346.222" y1=".13" x2="256.784" y2="200.12"/>
+          <line id="left" class="cls-4" x1="256.784" y1=".13" x2="346.222" y2="40.1282"/>
+          <line id="right" class="cls-4" x1="346.222" y1="200.12" x2="256.784" y2="160.1218"/>
+        </g>
+        <g id="_5_lines_primary_" data-name="√5 lines (primary)">
+          <line id="diagonal-2" data-name="diagonal" class="cls-1" x1="346.222" y1="200.12" x2="256.784" y2=".13"/>
+          <line id="left-2" data-name="left" class="cls-1" x1="256.784" y1="200.12" x2="346.222" y2="160.1218"/>
+          <line id="right-2" data-name="right" class="cls-1" x1="346.222" y1=".13" x2="256.784" y2="40.1282"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

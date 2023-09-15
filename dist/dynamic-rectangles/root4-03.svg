@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400.2508 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="_4_Layouts" data-name="√4 Layouts">
+    <g id="root4-03">
+      <g id="_1_left_" data-name="√1 (left)">
+        <rect id="_1_square_" data-name="√1 (square)" class="cls-1" x=".1251" y=".125" width="199.9999" height="199.9999"/>
+        <g id="quadrant_arcs" data-name="quadrant arcs">
+          <path id="_1_arc_right_" data-name="√1 arc (right)" class="cls-2" d="m200.1251,200.125C200.1251,89.6681,110.582.1251.1251.1251"/>
+          <path id="_1_arc_left_" data-name="√1 arc (left)" class="cls-2" d="m200.1249,200.125c-110.4569,0-199.9999-89.543-199.9999-199.9999"/>
+        </g>
+        <g id="diagonals">
+          <line id="left" class="cls-2" x1=".1251" y1=".125" x2="200.125" y2="200.1249"/>
+          <line id="right" class="cls-2" x1=".1251" y1="200.1249" x2="200.125" y2=".125"/>
+        </g>
+        <g id="grid_lines" data-name="grid lines">
+          <g id="horizontal">
+            <line id="top" class="cls-3" x1=".1251" y1="58.7058" x2="200.1251" y2="58.7058"/>
+            <line id="bottom" class="cls-3" x1="200.1249" y1="141.5464" x2=".1251" y2="141.5464"/>
+          </g>
+          <g id="vertical">
+            <line id="left-2" data-name="left" class="cls-3" x1="58.7059" y1="200.1249" x2="58.7059" y2=".1251"/>
+            <line id="right-2" data-name="right" class="cls-3" x1="141.5442" y1="200.125" x2="141.5442" y2=".1251"/>
+          </g>
+        </g>
+      </g>
+      <g id="_1_right_" data-name="√1 (right)">
+        <rect id="_1_square_-2" data-name="√1 (square)" class="cls-1" x="200.1258" y=".125" width="199.9999" height="199.9999" transform="translate(600.2515 200.2499) rotate(-180)"/>
+        <g id="quadrant_arcs-2" data-name="quadrant arcs">
+          <path id="_1_arc_right_-2" data-name="√1 arc (right)" class="cls-2" d="m200.1257,200.125c0-110.4569,89.543-199.9999,199.9999-199.9999"/>
+          <path id="_1_arc_left_-2" data-name="√1 arc (left)" class="cls-2" d="m200.1259,200.125c110.4569,0,199.9999-89.543,199.9999-199.9999"/>
+        </g>
+        <g id="diagonals-2" data-name="diagonals">
+          <line id="left_diagonal" data-name="left diagonal" class="cls-2" x1="400.1257" y1=".125" x2="200.1258" y2="200.1249"/>
+          <line id="right_diagonal" data-name="right diagonal" class="cls-2" x1="400.1257" y1="200.1249" x2="200.1258" y2=".125"/>
+        </g>
+        <g id="grid_lines-2" data-name="grid lines">
+          <g id="horizontal-2" data-name="horizontal">
+            <line id="top-2" data-name="top" class="cls-3" x1="400.1257" y1="58.7058" x2="200.1257" y2="58.7058"/>
+            <line id="bottom-2" data-name="bottom" class="cls-3" x1="200.1259" y1="141.5464" x2="400.1257" y2="141.5464"/>
+          </g>
+          <g id="vertical-2" data-name="vertical">
+            <line id="left-3" data-name="left" class="cls-3" x1="341.5449" y1="200.1249" x2="341.5449" y2=".1251"/>
+            <line id="right-3" data-name="right" class="cls-3" x1="258.7066" y1="200.125" x2="258.7066" y2=".1251"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

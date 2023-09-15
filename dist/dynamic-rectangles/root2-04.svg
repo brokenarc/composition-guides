@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.0695 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #ddd;
+      }
+
+      .cls-4 {
+        fill: rgba(0, 0, 255, .05);
+        stroke: blue;
+      }
+    </style>
+  </defs>
+  <g id="_2_Layouts" data-name="√2 Layouts">
+    <g id="root2-04">
+      <g id="_1_top_center_" data-name="√1 (top center)">
+        <path id="_1_arc" data-name="√1 arc" class="cls-2" d="m200.1169,117.2715C200.1169,52.5733,147.6686.125,82.9704.125"/>
+        <line id="_1_diagonal" data-name="√1 diagonal" class="cls-2" x1="82.9575" y1="117.2844" x2="200.1039" y2=".1379"/>
+        <rect id="_1_square" data-name="√1 square" class="cls-1" x="82.9575" y=".1379" width="117.1465" height="117.1465"/>
+      </g>
+      <g id="_1_bottom_left_" data-name="√1 (bottom left)">
+        <path id="_1_arc-2" data-name="√1 arc" class="cls-2" d="m.125,117.2806c0,45.7492,37.0871,82.8363,82.8363,82.8363"/>
+        <line id="_1_diagonal-2" data-name="√1 diagonal" class="cls-2" x1="82.9704" y1="117.2715" x2=".1342" y2="200.1077"/>
+        <rect id="_1_square-2" data-name="√1 square" class="cls-1" x=".1342" y="117.2715" width="82.8363" height="82.8363" transform="translate(83.1046 317.3792) rotate(180)"/>
+      </g>
+      <g id="_1_bottom_right_" data-name="√1 (bottom right)">
+        <path id="_1_arc-3" data-name="√1 arc" class="cls-2" d="m200.1083,200.125c45.7492,0,82.8363-37.0871,82.8363-82.8363"/>
+        <line id="_1_diagonal-3" data-name="√1 diagonal" class="cls-2" x1="200.0991" y1="117.2796" x2="282.9354" y2="200.1158"/>
+        <rect id="_1_square-3" data-name="√1 square" class="cls-1" x="200.0991" y="117.2796" width="82.8363" height="82.8363" transform="translate(400.215 -82.8195) rotate(90)"/>
+      </g>
+      <g id="_2_bottom_center_" data-name="√2 (bottom center)">
+        <g id="_2_lines_secondary_" data-name="√2 lines (secondary)">
+          <line id="_2_left" data-name="√2 left" class="cls-3" x1="82.9704" y1="200.1115" x2="141.5372" y2="117.2844"/>
+          <line id="_2_diagonal" data-name="√2 diagonal" class="cls-3" x1="200.1039" y1="200.1115" x2="82.9704" y2="117.2858"/>
+          <line id="_2_right" data-name="√2 right" class="cls-3" x1="141.5365" y1="200.112" x2="200.1039" y2="117.2858"/>
+        </g>
+        <g id="_2_lines_primary_" data-name="√2 lines (primary)">
+          <line id="_2_diagonal-2" data-name="√2 diagonal" class="cls-4" x1="82.9704" y1="200.1115" x2="200.1039" y2="117.2858"/>
+          <line id="_2_left-2" data-name="√2 left" class="cls-4" x1="82.9704" y1="117.2858" x2="141.5365" y2="200.112"/>
+          <line id="_2_right-2" data-name="√2 right" class="cls-4" x1="200.1039" y1="200.1115" x2="141.5372" y2="117.2844"/>
+        </g>
+        <rect id="_2_rectangle" data-name="√2 rectangle" class="cls-4" x="82.9704" y="117.2858" width="117.1335" height="82.8258"/>
+      </g>
+      <g id="_2_top_right_" data-name="√2 (top right)">
+        <g id="_2_lines_secondary_-2" data-name="√2 lines (secondary)">
+          <line id="_2_left-3" data-name="√2 left" class="cls-3" x1="200.1044" y1=".1399" x2="282.9392" y2="58.7122"/>
+          <line id="_2_diagonal-3" data-name="√2 diagonal" class="cls-3" x1="200.1044" y1="117.2844" x2="282.9379" y2=".1399"/>
+          <line id="_2_right-3" data-name="√2 right" class="cls-3" x1="200.1039" y1="58.7115" x2="282.9379" y2="117.2844"/>
+        </g>
+        <g id="_2_lines_primary_-2" data-name="√2 lines (primary)">
+          <line id="_2_diagonal-4" data-name="√2 diagonal" class="cls-4" x1="200.1044" y1=".1399" x2="282.9379" y2="117.2844"/>
+          <line id="_2_left-4" data-name="√2 left" class="cls-4" x1="282.9379" y1=".1399" x2="200.1039" y2="58.7115"/>
+          <line id="_2_right-4" data-name="√2 right" class="cls-4" x1="200.1044" y1="117.2844" x2="282.9392" y2="58.7122"/>
+        </g>
+        <rect id="_2_rectangle-2" data-name="√2 rectangle" class="cls-4" x="182.9489" y="17.2954" width="117.1445" height="82.8335" transform="translate(300.2333 -182.809) rotate(90)"/>
+      </g>
+      <g id="_2_top_left_" data-name="√2 (top left)">
+        <g id="_2_lines_secondary_-3" data-name="√2 lines (secondary)">
+          <line id="_2_left-5" data-name="√2 left" class="cls-3" x1=".125" y1=".125" x2="82.9704" y2="58.7047"/>
+          <line id="_2_diagonal-5" data-name="√2 diagonal" class="cls-3" x1=".125" y1="117.2844" x2="82.9691" y2=".125"/>
+          <line id="_2_right-5" data-name="√2 right" class="cls-3" x1=".1246" y1="58.704" x2="82.9691" y2="117.2844"/>
+        </g>
+        <g id="_2_lines_primary_-3" data-name="√2 lines (primary)">
+          <line id="_2_diagonal-6" data-name="√2 diagonal" class="cls-4" x1=".125" y1=".125" x2="82.9691" y2="117.2844"/>
+          <line id="_2_left-6" data-name="√2 left" class="cls-4" x1="82.9691" y1=".125" x2=".1246" y2="58.704"/>
+          <line id="_2_right-6" data-name="√2 right" class="cls-4" x1=".125" y1="117.2844" x2="82.9704" y2="58.7047"/>
+        </g>
+        <rect id="_2_rectangle-3" data-name="√2 rectangle" class="cls-4" x="-17.0327" y="17.2827" width="117.1594" height="82.8441" transform="translate(100.2517 17.1577) rotate(90)"/>
+      </g>
+    </g>
+  </g>
+</svg>

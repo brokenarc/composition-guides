@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 289.5 201">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="Orthogons">
+    <g id="bipenton">
+      <rect id="_01_square" data-name="01 square" class="cls-2" x=".7502" y=".5" width="200" height="200"/>
+      <line id="_02_horizontal_centerline" data-name="02 horizontal centerline" class="cls-2" x1=".7502" y1="100.5" x2="200.7502" y2="100.5"/>
+      <path id="_03_arc" data-name="03 arc" class="cls-2" d="m200.5,1c0,55.2285-44.7715,100-100,100S.5,56.2285.5,1"/>
+      <line id="_04_crossline" data-name="04 crossline" class="cls-2" x1=".7502" y1="200.5" x2="100.7502" y2=".5"/>
+      <path id="_05_arc" data-name="05 arc" class="cls-2" d="m124.25,201c0-68.3452-55.4048-123.75-123.75-123.75"/>
+      <line id="_06_crossline" data-name="06 crossline" class="cls-2" x1=".7502" y1=".5" x2="144.7502" y2="200.5"/>
+      <path id="_07_final_arc" data-name="07 final arc" class="cls-2" d="m.7502,200.5C.7502,120.902,65.2771,56.3751,144.8751,56.3751s144.1249,64.5269,144.1249,144.1249"/>
+      <rect id="_08_bipenton" data-name="08 bipenton" class="cls-1" x=".7502" y=".5" width="288" height="200"/>
+    </g>
+  </g>
+</svg>

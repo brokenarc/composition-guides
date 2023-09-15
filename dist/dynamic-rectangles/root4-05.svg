@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400.25 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        fill: rgba(0, 255, 0, .05);
+      }
+
+      .cls-2, .cls-4 {
+        stroke: lime;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="_4_Layouts" data-name="√4 Layouts">
+    <g id="root4-05">
+      <g id="_4_left_" data-name="√4 (left)">
+        <g id="_4_lines_secondary_" data-name="√4 lines (secondary)">
+          <g>
+            <line id="diagonal" class="cls-5" x1=".125" y1="200.1249" x2="100.125" y2=".125"/>
+            <line id="right" class="cls-5" x1="100.125" y1="200.1249" x2=".125" y2="150.1251"/>
+            <line id="left" class="cls-5" x1=".125" y1=".125" x2="100.125" y2="50.1249"/>
+          </g>
+        </g>
+        <g id="_4_lines_primary_" data-name="√4 lines (primary)">
+          <line id="diagonal-2" data-name="diagonal" class="cls-4" x1=".125" y1=".125" x2="100.125" y2="200.1249"/>
+          <line id="left-2" data-name="left" class="cls-4" x1="100.125" y1=".125" x2=".125" y2="50.1249"/>
+          <line id="right-2" data-name="right" class="cls-4" x1=".125" y1="200.1249" x2="100.125" y2="150.1251"/>
+        </g>
+        <rect id="_4_rectangle" data-name="√4 rectangle" class="cls-2" x="-49.875" y="50.125" width="199.9999" height="100" transform="translate(150.25 50) rotate(90)"/>
+      </g>
+      <g id="_1_center_" data-name="√1 (center)">
+        <rect id="_1_square_" data-name="√1 (square)" class="cls-1" x="100.1251" y=".125" width="199.9999" height="199.9999" transform="translate(400.2501 200.2499) rotate(-180)"/>
+        <g id="quadrant_arcs" data-name="quadrant arcs">
+          <path id="_1_arc_right_" data-name="√1 arc (right)" class="cls-3" d="m100.125,200.125c0-110.4569,89.543-199.9999,199.9999-199.9999"/>
+          <path id="_1_arc_left_" data-name="√1 arc (left)" class="cls-3" d="m100.1252,200.125c110.4569,0,199.9999-89.543,199.9999-199.9999"/>
+        </g>
+        <g id="diagonals">
+          <line id="left-3" data-name="left" class="cls-3" x1="300.125" y1=".125" x2="100.1251" y2="200.1249"/>
+          <line id="right-3" data-name="right" class="cls-3" x1="300.125" y1="200.1249" x2="100.1251" y2=".125"/>
+        </g>
+        <g id="grid_lines" data-name="grid lines">
+          <g id="horizontal">
+            <line id="top" class="cls-5" x1="300.125" y1="58.7058" x2="100.125" y2="58.7058"/>
+            <line id="bottom" class="cls-5" x1="100.1252" y1="141.5464" x2="300.125" y2="141.5464"/>
+          </g>
+          <g id="vertical">
+            <line id="left-4" data-name="left" class="cls-5" x1="241.5442" y1="200.1249" x2="241.5442" y2=".1251"/>
+            <line id="right-4" data-name="right" class="cls-5" x1="158.7059" y1="200.125" x2="158.7059" y2=".1251"/>
+          </g>
+        </g>
+      </g>
+      <g id="_4_right_" data-name="√4 (right)">
+        <g id="_4_lines_secondary_-2" data-name="√4 lines (secondary)">
+          <g>
+            <line id="diagonal-3" data-name="diagonal" class="cls-5" x1="400.125" y1="200.1249" x2="300.125" y2=".125"/>
+            <line id="right-5" data-name="right" class="cls-5" x1="300.125" y1="200.1249" x2="400.125" y2="150.1251"/>
+            <line id="left-5" data-name="left" class="cls-5" x1="400.125" y1=".125" x2="300.125" y2="50.1249"/>
+          </g>
+        </g>
+        <g id="_4_lines_primary_-2" data-name="√4 lines (primary)">
+          <line id="diagonal-4" data-name="diagonal" class="cls-4" x1="400.125" y1=".125" x2="300.125" y2="200.1249"/>
+          <line id="left-6" data-name="left" class="cls-4" x1="300.125" y1=".125" x2="400.125" y2="50.1249"/>
+          <line id="right-6" data-name="right" class="cls-4" x1="400.125" y1="200.1249" x2="300.125" y2="150.1251"/>
+        </g>
+        <rect id="_4_rectangle-2" data-name="√4 rectangle" class="cls-2" x="250.1251" y="50.125" width="199.9999" height="100" transform="translate(450.25 -250.0001) rotate(90)"/>
+      </g>
+    </g>
+  </g>
+</svg>

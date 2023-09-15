@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224.7491 201">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="Orthogons">
+    <g id="hemidiagon">
+      <rect id="_01_square" data-name="01 square" class="cls-2" x=".8034" y=".5" width="200" height="200"/>
+      <line id="_02_crossline" data-name="02 crossline" class="cls-2" x1=".8034" y1="200.5" x2="200.8034" y2="100.5"/>
+      <path id="_03_arc" data-name="03 arc" class="cls-2" d="m224.2491,200.5c0-35.9277-8.4794-69.875-23.546-99.9498"/>
+      <rect id="_04_hemidiagon" data-name="04 hemidiagon" class="cls-1" x=".5" y=".5" width="223.6068" height="200"/>
+    </g>
+  </g>
+</svg>

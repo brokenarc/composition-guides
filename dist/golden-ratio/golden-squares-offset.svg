@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.25 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="golden-squares-offset">
+      <rect id="square_09" data-name="square 09" class="cls-1" x=".125" y=".125" width="200" height="200"/>
+      <rect id="square_08" data-name="square 08" class="cls-1" x=".125" y=".125" width="123.6068" height="123.6068"/>
+      <rect id="square_07" data-name="square 07" class="cls-1" x=".125" y=".125" width="76.3932" height="76.3932"/>
+      <rect id="square_06" data-name="square 06" class="cls-1" x=".125" y=".125" width="47.2136" height="47.2136"/>
+      <rect id="square_05" data-name="square 05" class="cls-1" x=".125" y=".125" width="29.0401" height="29.0401"/>
+      <rect id="square_04" data-name="square 04" class="cls-1" x=".125" y=".125" width="18.034" height="18.034"/>
+      <rect id="square_03" data-name="square 03" class="cls-1" x=".125" y=".125" width="11.2229" height="11.2229"/>
+      <rect id="square_02" data-name="square 02" class="cls-1" x=".125" y=".125" width="6.9361" height="6.9361"/>
+      <rect id="square_01" data-name="square 01" class="cls-1" x=".125" y=".125" width="4.2868" height="4.2868"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323.8568 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255, 255, 0, .05);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: olive;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-3 {
+        fill: #ff0;
+        opacity: .05;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="golden-spiral-circles">
+      <g id="circles">
+        <g>
+          <g id="circle_09" data-name="circle 09">
+            <circle class="cls-3" cx="100.125" cy="100.125" r="100"/>
+            <circle class="cls-2" cx="100.125" cy="100.125" r="100"/>
+          </g>
+          <g id="circle_08" data-name="circle 08">
+            <circle class="cls-3" cx="261.9284" cy="61.9284" r="61.8034"/>
+            <circle class="cls-2" cx="261.9284" cy="61.9284" r="61.8034"/>
+          </g>
+          <g id="circle_07" data-name="circle 07">
+            <circle class="cls-3" cx="285.5351" cy="161.9284" r="38.1966"/>
+            <circle class="cls-2" cx="285.5351" cy="161.9284" r="38.1966"/>
+          </g>
+          <g id="circle_06" data-name="circle 06">
+            <circle class="cls-3" cx="223.7318" cy="176.5182" r="23.6068"/>
+            <circle class="cls-2" cx="223.7318" cy="176.5182" r="23.6068"/>
+          </g>
+          <g id="circle_05" data-name="circle 05">
+            <circle class="cls-3" cx="214.7148" cy="138.3216" r="14.5201"/>
+            <circle class="cls-2" cx="214.7148" cy="138.3216" r="14.5201"/>
+          </g>
+          <g id="circle_04" data-name="circle 04">
+            <circle class="cls-3" cx="238.3216" cy="132.7488" r="9.017"/>
+            <circle class="cls-2" cx="238.3216" cy="132.7488" r="9.017"/>
+          </g>
+          <g id="circle_03" data-name="circle 03">
+            <circle class="cls-3" cx="241.7271" cy="147.3772" r="5.6114"/>
+            <circle class="cls-2" cx="241.7271" cy="147.3772" r="5.6114"/>
+          </g>
+          <g id="circle_02" data-name="circle 02">
+            <circle class="cls-3" cx="232.6476" cy="149.5206" r="3.4681"/>
+            <circle class="cls-2" cx="232.6476" cy="149.5206" r="3.4681"/>
+          </g>
+          <g id="circle_01" data-name="circle 01">
+            <circle class="cls-3" cx="231.3229" cy="143.9092" r="2.1434"/>
+            <circle class="cls-2" cx="231.3229" cy="143.9092" r="2.1434"/>
+          </g>
+        </g>
+      </g>
+      <g id="squares">
+        <rect id="square_09" data-name="square 09" class="cls-1" x=".125" y=".125" width="200" height="200"/>
+        <rect id="square_08" data-name="square 08" class="cls-1" x="200.125" y=".125" width="123.6068" height="123.6068"/>
+        <rect id="square_07" data-name="square 07" class="cls-1" x="247.3386" y="123.7318" width="76.3932" height="76.3932"/>
+        <rect id="square_06" data-name="square 06" class="cls-1" x="200.125" y="152.9114" width="47.2136" height="47.2136"/>
+        <rect id="square_05" data-name="square 05" class="cls-1" x="200.1947" y="123.8015" width="29.0401" height="29.0401"/>
+        <rect id="square_04" data-name="square 04" class="cls-1" x="229.3046" y="123.7318" width="18.034" height="18.034"/>
+        <rect id="square_03" data-name="square 03" class="cls-1" x="236.1156" y="141.7658" width="11.2229" height="11.2229"/>
+        <rect id="square_02" data-name="square 02" class="cls-1" x="229.1795" y="146.0526" width="6.9361" height="6.9361"/>
+        <rect id="square_01" data-name="square 01" class="cls-1" x="229.1795" y="141.7658" width="4.2868" height="4.2868"/>
+      </g>
+    </g>
+  </g>
+</svg>

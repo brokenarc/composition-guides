@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232.074 201">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="Orthogons">
+    <g id="trion">
+      <rect id="_01_square" data-name="01 square" class="cls-2" x=".6039" y=".5" width="200" height="200"/>
+      <path id="_02_left_arc" data-name="02 left arc" class="cls-2" d="m200.4779,200.7353C200.4779,90.2906,110.9447.7574.5.7574"/>
+      <path id="_03_right_arc" data-name="03 right arc" class="cls-2" d="m.5,200.7353C.5,90.2906,90.0332.7574,200.4779.7574"/>
+      <line id="_04_crossline" data-name="04 crossline" class="cls-2" x1=".6039" y1="200.5" x2="115.6039" y2=".5"/>
+      <path id="_05_outer_arc" data-name="05 outer arc" class="cls-2" d="m231.1207,200.5c0-85.4613-46.5063-160.0604-115.5917-199.8702"/>
+      <rect id="_06_trion" data-name="06 trion" class="cls-1" x=".6339" y=".5" width="230.9401" height="200"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247.1713 201">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="Orthogons">
+    <g id="biauron">
+      <rect id="_01_square" data-name="01 square" class="cls-2" x=".6713" y=".5" width="200" height="200"/>
+      <line id="_02_crossline" data-name="02 crossline" class="cls-2" x1="100.6713" y1=".5" x2=".6713" y2="200.5"/>
+      <path id="_03_arc" data-name="03 arc" class="cls-2" d="m.5,1c0,55.2285,44.7715,100,100,100S200.5,56.2285,200.5,1"/>
+      <path id="_04_arc" data-name="04 arc" class="cls-2" d="m124.0531,200.5183c0-68.1519-55.2481-123.4-123.4-123.4"/>
+      <path id="_05_final_arc" data-name="05 final arc" class="cls-2" d="m.6713,200.5c0-67.931,55.069-123,123-123s123,55.069,123,123"/>
+      <rect id="_06_biauron" data-name="06 biauron" class="cls-1" x=".6713" y=".5" width="246" height="200"/>
+    </g>
+  </g>
+</svg>

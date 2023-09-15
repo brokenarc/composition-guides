@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 242.4214 201">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="Orthogons">
+    <g id="quadriagon">
+      <rect id="_01_square" data-name="01 square" class="cls-2" x=".5" y=".5" width="200" height="200"/>
+      <line id="_02_diagonal" data-name="02 diagonal" class="cls-2" x1=".5" y1=".5" x2="200.5" y2="200.5"/>
+      <line id="_03_diagonal" data-name="03 diagonal" class="cls-2" x1=".5" y1="200.5" x2="200.5" y2=".5"/>
+      <path id="_04_arc" data-name="04 arc" class="cls-2" d="m200.5.5c25.5922,25.5922,41.4214,60.9476,41.4214,100s-15.8291,74.4078-41.4213,100"/>
+      <rect id="_05_quadriagon" data-name="05 quadriagon" class="cls-1" x=".5" y=".5" width="241" height="200"/>
+    </g>
+  </g>
+</svg>

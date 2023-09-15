@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.4999 200.4999">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="golden-triangle">
+      <rect id="rect_3:2_" data-name="rect (3:2)" class="cls-1" x=".25" y=".25" width="299.9999" height="199.9999"/>
+      <g id="lines">
+        <line id="right" class="cls-1" x1="300.2493" y1="200.2499" x2="166.9164" y2=".25"/>
+        <line id="left" class="cls-1" x1="133.583" y1="200.25" x2=".25" y2=".25"/>
+        <line id="diagonal" class="cls-1" x1="300.2499" y1=".25" x2=".25" y2="200.2499"/>
+      </g>
+    </g>
+  </g>
+</svg>

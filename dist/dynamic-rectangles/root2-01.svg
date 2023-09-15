@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.0871 200.2457">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ddd;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: rgba(0, 0, 255, .05);
+        stroke: blue;
+      }
+    </style>
+  </defs>
+  <g id="_2_Layouts" data-name="√2 Layouts">
+    <g id="root2-01">
+      <g id="_2_lines_secondary_" data-name="√2 lines (secondary)">
+        <line id="_2_diagonal" data-name="√2 diagonal" class="cls-1" x1="282.9621" y1="200.1207" x2=".125" y2=".125"/>
+        <line id="_2_right" data-name="√2 right" class="cls-1" x1="141.542" y1="200.1217" x2="282.9621" y2=".125"/>
+        <line id="_2_left" data-name="√2 left" class="cls-1" x1=".125" y1="200.1207" x2="141.5436" y2=".1217"/>
+      </g>
+      <g id="_2_lines_primary_" data-name="√2 lines (primary)">
+        <line id="_2_diagonal-2" data-name="√2 diagonal" class="cls-2" x1=".125" y1="200.1207" x2="282.9621" y2=".125"/>
+        <line id="_2_right-2" data-name="√2 right" class="cls-2" x1="282.9621" y1="200.1206" x2="141.5436" y2=".1217"/>
+        <line id="_2_left-2" data-name="√2 left" class="cls-2" x1=".125" y1=".125" x2="141.542" y2="200.1217"/>
+      </g>
+      <rect id="_2_rectangle" data-name="√2 rectangle" class="cls-2" x=".125" y=".125" width="282.8371" height="199.9957"/>
+    </g>
+  </g>
+</svg>

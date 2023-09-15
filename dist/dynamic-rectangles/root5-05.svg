@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 447.4906 200.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: rgba(0, 255, 0, .05);
+      }
+
+      .cls-2, .cls-4 {
+        stroke: lime;
+      }
+
+      .cls-3 {
+        fill: rgba(255, 255, 0, .05);
+      }
+
+      .cls-3, .cls-6 {
+        stroke: olive;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="_5_Layouts" data-name="√5 Layouts">
+    <g id="root5-05">
+      <g id="whirling_center_right_" data-name="whirling √ (center right)">
+        <rect id="whirling_rectangle" data-name="whirling rectangle" class="cls-3" x="185.5622" y="38.3216" width="200" height="123.6068" transform="translate(385.6872 -185.4372) rotate(90)"/>
+        <rect id="whirling_square" data-name="whirling square" class="cls-1" x="223.7588" y=".125" width="123.6068" height="123.6068" transform="translate(347.4906 -223.6338) rotate(90)"/>
+        <line id="whirling_diagonal" data-name="whirling diagonal" class="cls-3" x1="223.7588" y1="61.9284" x2="347.3656" y2="123.7318"/>
+        <path id="whirling_arc" data-name="whirling arc" class="cls-6" d="m223.7588,200.125c54.1033,0,100.945-31.0903,123.6338-76.3796"/>
+      </g>
+      <g id="whirling_center_left_" data-name="whirling √ (center left)">
+        <rect id="whirling_rectangle-2" data-name="whirling rectangle" class="cls-3" x="61.9554" y="38.3216" width="200" height="123.6068" transform="translate(262.0804 -61.8304) rotate(90)"/>
+        <rect id="whirling_square-2" data-name="whirling square" class="cls-1" x="100.152" y=".125" width="123.6068" height="123.6068" transform="translate(223.8838 -100.027) rotate(90)"/>
+        <line id="whirling_diagonal-2" data-name="whirling diagonal" class="cls-3" x1="223.7588" y1="61.9284" x2="100.152" y2="123.7318"/>
+        <path id="whirling_arc-2" data-name="whirling arc" class="cls-6" d="m223.7588,200.125c-54.1033,0-100.945-31.0903-123.6338-76.3796"/>
+      </g>
+      <g id="_4_right_" data-name="√4 (right)">
+        <g id="_4_lines_secondary_" data-name="√4 lines (secondary)">
+          <g>
+            <line id="diagonal" class="cls-5" x1="347.3656" y1="200.125" x2="447.3656" y2=".125"/>
+            <line id="right" class="cls-5" x1="447.3656" y1="200.125" x2="347.3656" y2="150.1252"/>
+            <line id="left" class="cls-5" x1="347.3656" y1=".125" x2="447.3657" y2="50.1249"/>
+          </g>
+        </g>
+        <g id="_4_lines_primary_" data-name="√4 lines (primary)">
+          <line id="diagonal-2" data-name="diagonal" class="cls-4" x1="347.3656" y1=".125" x2="447.3656" y2="200.125"/>
+          <line id="left-2" data-name="left" class="cls-4" x1="447.3657" y1=".125" x2="347.3656" y2="50.1249"/>
+          <line id="right-2" data-name="right" class="cls-4" x1="347.3656" y1="200.125" x2="447.3656" y2="150.1252"/>
+        </g>
+        <rect id="_4_rectangle" data-name="√4 rectangle" class="cls-2" x="297.3656" y="50.125" width="200" height="100" transform="translate(497.4906 -297.2406) rotate(90)"/>
+      </g>
+      <g id="_4_left_" data-name="√4 (left)">
+        <g id="_4_lines_secondary_-2" data-name="√4 lines (secondary)">
+          <g>
+            <line id="diagonal-3" data-name="diagonal" class="cls-5" x1="100.125" y1="200.125" x2=".125" y2=".125"/>
+            <line id="right-3" data-name="right" class="cls-5" x1=".125" y1="200.125" x2="100.125" y2="150.1252"/>
+            <line id="left-3" data-name="left" class="cls-5" x1="100.125" y1=".125" x2=".1249" y2="50.1249"/>
+          </g>
+        </g>
+        <g id="_4_lines_primary_-2" data-name="√4 lines (primary)">
+          <line id="diagonal-4" data-name="diagonal" class="cls-4" x1="100.125" y1=".125" x2=".125" y2="200.125"/>
+          <line id="left-4" data-name="left" class="cls-4" x1=".1249" y1=".125" x2="100.125" y2="50.1249"/>
+          <line id="right-4" data-name="right" class="cls-4" x1="100.125" y1="200.125" x2=".125" y2="150.1252"/>
+        </g>
+        <rect id="_4_rectangle-2" data-name="√4 rectangle" class="cls-2" x="-49.875" y="50.125" width="200" height="100" transform="translate(150.25 50) rotate(90)"/>
+      </g>
+    </g>
+  </g>
+</svg>

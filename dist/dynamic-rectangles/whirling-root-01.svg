@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323.7861 200.2368">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(39, 37, 37, .05);
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: rgba(255, 255, 0, .05);
+      }
+
+      .cls-2, .cls-3 {
+        stroke: olive;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Whirling_Layouts" data-name="Whirling √ Layouts">
+    <g id="whirling-root-01">
+      <path id="whirling_arc" data-name="whirling arc" class="cls-3" d="m323.6611,200.1118c0-87.5218-50.2942-163.2968-123.5578-200"/>
+      <line id="whirling_diagonal" data-name="whirling diagonal" class="cls-2" x1="100.1031" y1="200.1118" x2="200.0813" y2=".1555"/>
+      <rect id="whirling_square" data-name="whirling square" class="cls-1" x=".125" y=".1555" width="199.9563" height="199.9563"/>
+      <rect id="whirling_rectangle" data-name="whirling rectangle" class="cls-2" x=".125" y=".1555" width="323.5361" height="199.9563"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323.7861 200.2063">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255, 255, 0, .05);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: olive;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Whirling_Layouts" data-name="Whirling √ Layouts">
+    <g id="whirling-root-02">
+      <g id="lines_secondary_" data-name="lines (secondary)">
+        <g>
+          <line id="diagonal" class="cls-2" x1="323.6611" y1=".125" x2=".125" y2="200.0813"/>
+          <line id="right" class="cls-2" x1="193.8078" y1=".125" x2="323.6611" y2="200.0813"/>
+          <line id="left" class="cls-2" x1=".125" y1=".125" x2="123.7026" y2="200.0813"/>
+        </g>
+      </g>
+      <g id="lines_primary_" data-name="lines (primary)">
+        <line id="diagonal-2" data-name="diagonal" class="cls-3" x1=".125" y1=".125" x2="323.6611" y2="200.0813"/>
+        <line id="right-2" data-name="right" class="cls-3" x1="323.6611" y1=".125" x2="200.0835" y2="200.0813"/>
+        <line id="left-2" data-name="left" class="cls-3" x1="129.9783" y1=".125" x2=".125" y2="200.0813"/>
+      </g>
+      <rect id="whirling_rectangle" data-name="whirling rectangle" class="cls-1" x=".125" y=".125" width="323.5361" height="199.9563"/>
+    </g>
+  </g>
+</svg>

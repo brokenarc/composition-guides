@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 401 201">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #ddd;
+      }
+    </style>
+  </defs>
+  <g id="Orthogons">
+    <g id="doppelquadrat">
+      <rect id="_01_square" data-name="01 square" class="cls-2" x=".5" y=".5" width="200" height="200"/>
+      <path id="_02_arc" data-name="02 arc" class="cls-2" d="m400.5,200.5C400.5,90.0431,310.9569.5,200.5.5S.5,90.0431.5,200.5"/>
+      <rect id="_03_doppelquadrat" data-name="03 doppelquadrat" class="cls-1" x=".5" y=".5" width="400" height="200"/>
+    </g>
+  </g>
+</svg>

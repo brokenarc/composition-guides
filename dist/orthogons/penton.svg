@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 401 201">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #ddd;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 3;
+      }
+    </style>
+  </defs>
+  <g id="Orthogons">
+    <g id="penton">
+      <rect id="_01_square" data-name="01 square" class="cls-3" x=".5" y=".5" width="200" height="200"/>
+      <rect id="_02_square" data-name="02 square" class="cls-2" x="200.5" y=".5" width="200" height="200"/>
+      <line id="_03_diagonal" data-name="03 diagonal" class="cls-2" x1=".5" y1="200.5" x2="400.5" y2=".5"/>
+      <path id="_04_quadrant" data-name="04 quadrant" class="cls-2" d="m200.5.5c0,110.4569,89.5431,200,200,200"/>
+      <path id="_05_arc" data-name="05 arc" class="cls-2" d="m247.7563,200.4937c0-82.2044-40.1171-155.0389-101.8414-199.9938"/>
+      <line id="_06_diagonal" data-name="06 diagonal" class="cls-2" x1=".5" y1="200.5" x2="274.5" y2=".5"/>
+      <rect id="_07_penton" data-name="07 penton" class="cls-1" x=".5" y=".5" width="274" height="200"/>
+    </g>
+  </g>
+</svg>
